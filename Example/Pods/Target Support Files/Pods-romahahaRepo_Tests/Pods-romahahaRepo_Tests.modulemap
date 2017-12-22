@@ -1,0 +1,6 @@
+framework module Pods_romahahaRepo_Tests {
+  umbrella header "Pods-romahahaRepo_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

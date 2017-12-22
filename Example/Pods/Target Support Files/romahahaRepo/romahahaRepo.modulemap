@@ -1,0 +1,6 @@
+framework module romahahaRepo {
+  umbrella header "romahahaRepo-umbrella.h"
+
+  export *
+  module * { export * }
+}
