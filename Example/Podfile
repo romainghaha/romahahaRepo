@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'romahahaRepo_Example' do
+  pod 'romahahaRepo', :path => '../'
+
+  target 'romahahaRepo_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
